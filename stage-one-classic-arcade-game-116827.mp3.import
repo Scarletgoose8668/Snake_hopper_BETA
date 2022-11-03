@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/stage-one-classic-arcade-game-116827.mp3-ad10cd0c956010668d2313aefdefa295.mp3str"
+
+[deps]
+
+source_file="res://stage-one-classic-arcade-game-116827.mp3"
+dest_files=[ "res://.import/stage-one-classic-arcade-game-116827.mp3-ad10cd0c956010668d2313aefdefa295.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/metal-dark-matter-111451.mp3-50e227d5a18615af4deae5bd9731b899.mp3str"
+
+[deps]
+
+source_file="res://metal-dark-matter-111451.mp3"
+dest_files=[ "res://.import/metal-dark-matter-111451.mp3-50e227d5a18615af4deae5bd9731b899.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0
